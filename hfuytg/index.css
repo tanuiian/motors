@@ -1,0 +1,56 @@
+
+
+
+body{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    background-image: url(images/highway-1277246_1920.jpg);
+    background-position: center;
+    background-size: cover;
+    /* opacity: 50%; */
+    color: white;
+
+}
+header{
+    text-align: center;
+}
+nav{
+    text-decoration: none;
+    float: right;
+    display: block;
+    justify-content: center;
+    background-color: aqua;
+    opacity: 100%;
+    
+}
+
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 6px;
+    padding: 0;
+
+}
+
+li{
+    display: inline;
+    
+}
+li a{
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    color: black;
+}
+
+
+
+
+.contact{
+    color: black;
+    padding: 50px;;
+
+}
